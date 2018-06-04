@@ -21,5 +21,5 @@
 # function: add_lunch_combo generic-eng
 
 add_lunch_combo omni_sagit-user
-add_lunch_combo omni_sagit-userdebug
+add_lunch_combo bootleg_sagit-userdebug
 add_lunch_combo omni_sagit-eng

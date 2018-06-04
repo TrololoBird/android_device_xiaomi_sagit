@@ -40,7 +40,7 @@ AUDIO_FEATURE_ELLIPTIC_ULTRASOUND_SUPPORT := true
 DEVICE_MANIFEST_FILE := $(DEVICE_PATH)/manifest.xml
 
 # SELinux
-BOARD_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy/vendor
+#BOARD_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy/vendor
 
 # Inherit from proprietary files
 include vendor/xiaomi/sagit/BoardConfigVendor.mk
